@@ -72,7 +72,7 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/ankivectorUpdates"
+            text="📢Updates Channel", url="https://t.me/LockdownAcademy2"
         ),
         InlineKeyboardButton(
             text="👥 Support Group", url="https://t.me/AnkiSupport_Official"
